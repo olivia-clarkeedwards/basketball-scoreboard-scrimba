@@ -1,8 +1,10 @@
 body {
   margin: 0;
+  background-color: #E5E5E5;
 }
 
 .container {
   display: flex;
   justify-content: space-around;
+  
 }
