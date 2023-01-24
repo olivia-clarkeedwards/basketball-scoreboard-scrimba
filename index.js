@@ -13,3 +13,10 @@ function addScore(team, scoreToAdd) {
     scoreRight.textContent = currentScoreR
   }
 }
+
+function resetScores() {
+  currentScoreL = 0
+  currentScoreR = 0
+  scoreLeft.textContent = currentScoreL
+  scoreRight.textContent = currentScoreR
+}
