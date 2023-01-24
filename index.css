@@ -8,6 +8,10 @@ body {
   background-color: #1B244A;
   width: 575px;
   height: 385px;
+  position: relative;
+  margin-top: 50px;
+  margin-left: 50px;
+  justify-content: center;
 }
 
 .container {
@@ -17,11 +21,14 @@ body {
 
 button {
   color: #9AABD8;
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  font-size: 18px;
   width: 45px;
   height: 45px;
   background-color: transparent;
   border: 2px solid #9AABD8;
   border-radius: 5px;
+  margin-top: 26px;
 }
 
 h3{
@@ -33,5 +40,13 @@ h3{
 }
 
 h2 {
+  color: #F94F6D;
+  font-family: 'Cursed Timer ULiL', sans-serif;
   background-color: #080001;
+  font-size: 90px;
+  width: 155px;
+  height: 120px;
+  margin: 0px;
+  text-align: center;
+  line-height: 126px;
 }
