@@ -17,4 +17,5 @@ body {
 button {
   width: 45px;
   height: 45px;
+  background-color: transparent;
 }
